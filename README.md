@@ -45,5 +45,5 @@ or
         
 3.	Steps to run the application Expand src folder.
 
-        Right Click on AllTests_Suite.java file -> Run As -> JUnit Test
+        Right Click on AllTests.java file -> Run As -> JUnit Test
 
